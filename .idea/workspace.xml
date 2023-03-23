@@ -5,33 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3bd62ab-eb0b-487b-ac8e-34eb8143918a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_j_8_0_32.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/ojdbc10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FactoryMethod.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/META-INF/DBFactory.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/META-INF/DBMySQL.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/META-INF/DBOracle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/META-INF/DBPostgres.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/META-INF/mysql-connector-j-8.0.32.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/META-INF/ojdbc10.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/META-INF/postgresql-42.6.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factorymethod/DBFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factorymethod/DBType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factorymethod/IDBAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factorymethod/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factorymethod/dao/ProductoDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factorymethod/entity/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factorymethod/impl/MySQLDBAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factorymethod/impl/OracleDBAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factorymethod/impl/PostgresSQLDBAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factorymethod/util/PropertiesUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/META-INF/DBFactory.properties" beforeDir="false" afterPath="$PROJECT_DIR$/META-INF/DBFactory.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/META-INF/DBPostgres.properties" beforeDir="false" afterPath="$PROJECT_DIR$/META-INF/DBPostgres.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factorymethod/DBFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factorymethod/DBFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factorymethod/DBType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factorymethod/DBType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factorymethod/impl/PostgresSQLDBAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factorymethod/impl/PostgresSQLDBAdapter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

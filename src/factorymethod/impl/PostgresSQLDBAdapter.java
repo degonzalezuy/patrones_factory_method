@@ -12,10 +12,10 @@ public class PostgresSQLDBAdapter implements IDBAdapter {
 
     private static final String DB_PROPERTIES = "META-INF/DBPostgres.properties";
 
-    private static final String DB_DATABASE_PROP = "database";
-    private static final String DB_HOST_PROP = "host";
+    private static final String DB_DATABASE_PROP = "databaseName";
+    private static final String DB_HOST_PROP = "serverName";
     private static final String DB_PASSWORD_PROP = "password";
-    private static final String DB_PORT_PROP = "port";
+    private static final String DB_PORT_PROP = "portNumber";
     private static final String DB_USER_PROP = "user";
 
     static {

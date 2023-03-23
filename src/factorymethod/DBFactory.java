@@ -2,6 +2,7 @@ package factorymethod;
 
 import factorymethod.impl.MySQLDBAdapter;
 import factorymethod.impl.OracleDBAdapter;
+import factorymethod.impl.PostgresSQLDBAdapter;
 import factorymethod.util.PropertiesUtil;
 
 import java.util.Properties;
@@ -16,6 +17,8 @@ public class DBFactory {
                 return new MySQLDBAdapter();
             case Oracle:
                 return new OracleDBAdapter();
+            case PostgreSQL:
+                return new PostgresSQLDBAdapter();
             default:
                 throw new IllegalArgumentException("No soportado");
         }
